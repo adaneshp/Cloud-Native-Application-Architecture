@@ -1,4 +1,5 @@
 # Lab 7: Docker
+- This code was developed in March, 2022.
 
 Virtualization of compute resources is key to decoupling physical hardware from the applications. One option to virtualization is through the use of Virtual Machines (VMs such as Virtualbox) by which virtual machines dedicated to an application can be spun up. While VMs are well isolated from each other, they are resource intensive, and have long startup times. An alternative solution is virtualization at the OS level known as containers. Containers can be thought of as isolated instances of a normal OS process. They are lightweight since they share the OS kernel with other containers. A large number of containers can be spun up on a single physical machine rapidly. They provide an isolated view of the processes within the container, the file system, and the network. Linux kernel supports containers through features such as namespaces, and cgroups, allowing physical resources (CPU and memory) to be partitioned among containers.
 
