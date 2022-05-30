@@ -1,4 +1,5 @@
 # Lab 6: Accessing external service through public REST API
+- This code was developed in February, 2022.
 
 In this lab, we will programmatically access external services through public REST APIs.  Cloud native application development relies on REST APIs to share data with external users. APIs provide a well defined interface for external users to access a service while hiding internal implementation details. Additionally, APIs allow incorporation of security principles such as authentication and authorization. As an example, Google’s Places API is a service that returns information about places using HTTP requests. Places are defined within this API as establishments, geographic locations, or prominent points of interest. 
 Check out the details of the Google Places API here -
