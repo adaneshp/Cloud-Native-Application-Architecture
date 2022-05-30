@@ -1,7 +1,6 @@
 # Lab 1: Go Basics
 
-- This instruction is the one that the professor of the course gave to the students, with minor changes.
-- This code was developed and uploaded in January, 2022.
+- This code was developed in January, 2022.
 
 ## Set up lab platform (for all labs)
 Recommend using Ubuntu Linux (20.04) installed on a Virtualbox VM for all labs.
