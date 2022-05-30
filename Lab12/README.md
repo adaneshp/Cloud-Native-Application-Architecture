@@ -1,4 +1,5 @@
 # Lab 12 : CI/CD with GitHub Action
+- This code was developed in April, 2022.
 
 Continuous Integration (CI) is a practice of frequently committing code to a shared repository, as well as building and testing it. CI advantages include detecting errors sooner, reducing the amount of code that needs to be debugged, and managing changes made by multiple members of a software development team. The alternative to CI was the inefficient “big bang” approach to code integration where all components are integrated and tested at once to build a complicated system.
 
