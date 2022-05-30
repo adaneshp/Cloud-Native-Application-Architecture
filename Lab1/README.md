@@ -130,7 +130,7 @@ Incrementally, develop the code for the package, testing along the way
 From the module, integrate the packages in main.go for your overall project.
 
 
-## To do
+## Extra
 Write a Go program that reads a text file, and outputs the top K occurrences of words in the file. Words are defined as a set of characters limited by a whitespace.
 Write your code in a directory corresponding to the package name (textproc)
 
@@ -141,4 +141,4 @@ Hint 4: Use a map for counting word occurrences in O(n) time
 Hint 5: Helper function for sorting is provided
 
 
-The code for the to do section can be seen "textproc" directory.
+The code for the Extra section can be seen "textproc" directory.
